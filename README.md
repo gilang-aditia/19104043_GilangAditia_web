@@ -1,2 +1,6 @@
 # 19104043_GilangAditia_web
-tugas pemrograman web
+
+
+| NAMA | NIM | KELAS
+|--|--|--|
+| Gilang Aditia  | 19104043 | 03 SE B
