@@ -1,2 +1,6 @@
-# 19104043_GilangAditia_web
-tugas pemrograman web
+| NAMA | NIM | KELAS
+|--|--|--|
+| Gilang Aditia  | 19104043 | 03 SE B
+
+### Screenshot Tampilan Website
+![screenshot-min](<a href="https://ibb.co/jWkm6JS"><img src="https://i.ibb.co/RBTfvjq/ittp.jpg" alt="ittp" border="0"></a>)
